@@ -1408,10 +1408,10 @@
   resolved "https://npm.dtedu.com/@tootallnate%2fonce/-/once-2.0.0.tgz#f544a148d3ab35801c1f633a7441fd87c2e484bf"
   integrity sha1-9UShSNOrNYAcH2M6dEH9h8LkhL8=
 
-"@trpc/client@^10.21.1":
-  version "10.25.0"
-  resolved "https://npm.dtedu.com/@trpc%2fclient/-/client-10.25.0.tgz#ecd35e2ca5bbda9dd746a52e5342a5feebb06c10"
-  integrity sha512-XWuzbbACX2fzB9UHVkPJtaaAeFiyPjQSC3YgnRtDwjQx03/nt7OsxTBxvG0kblCN0Z2zZrnLF65aDrMJEP43LQ==
+"@trpc/client@^10.26.0":
+  version "10.26.0"
+  resolved "https://registry.yarnpkg.com/@trpc/client/-/client-10.26.0.tgz#eaccff7b101882cbf543931abc1f764b3b17bae6"
+  integrity sha512-ojHxQFIE97rBEGPK8p1ijbzo0T1IdEBoJ9fFSgWWL9FMuEEA/DNQ9s0uuiOrDKhCCdTFT1unfRharoJhB2/O2w==
 
 "@trpc/next@^10.21.1":
   version "10.25.0"
