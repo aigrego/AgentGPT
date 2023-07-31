@@ -1425,10 +1425,10 @@
   resolved "https://npm.dtedu.com/@trpc%2freact-query/-/react-query-10.25.0.tgz#765703c39380dff94056ef327868268356599eb7"
   integrity sha512-6+gHPjEo4ocTwgij5fLqEwTP6ud1ZW48Kt/STM8Kgz8/Vj7QhBSbGVEmUL++/8MD3Ro1SEBV63DTc1t7vMEZ/Q==
 
-"@trpc/server@^10.9.0":
-  version "10.25.0"
-  resolved "https://npm.dtedu.com/@trpc%2fserver/-/server-10.25.0.tgz#2e578b0ef20ed1fe66dd770cf1e6ea8652f29a2b"
-  integrity sha512-OKcGw2iZMUV8zCHoS+uLYGVq2tbZhhK0TPbb0pGhT+KTN8oWYPG+oYpTe9He9J1A2y8qcRAoy5u1zdiUUOiFEg==
+"@trpc/server@^10.36.0":
+  version "10.36.0"
+  resolved "https://registry.yarnpkg.com/@trpc/server/-/server-10.36.0.tgz#5cbec49edaa8b59b97a4a3c6084c350a1e865bf7"
+  integrity sha512-9kwFeGBuihUPZT2wRv2cmTpSoI+sSGj0/lBwvtgIq1P0+ONpj5NJOcWlvYbpnr5nRxc/+44lM/mg4TnSuTd5Kg==
 
 "@types/aria-query@^5.0.1":
   version "5.0.1"
